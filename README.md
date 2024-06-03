@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50" height="50" style="vertical-align: sub;" />
 </h3>
 
-<h3 align="center"> Uma pequena aprendiz </h3>
+<h3 align="center"> Hello World! Uma pequena aprendiz </h3>
 
 🌱 Focada em avançar na jornada do Front End e partir pro Back End :)
 
