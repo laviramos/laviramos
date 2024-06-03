@@ -6,7 +6,7 @@
 
 <h3 align="center"> Hello World! Uma pequena aprendiz </h3>
 
-🌱 Focada em avançar na jornada do Front End e partir pro Back End :)
+🌱 Focada em avançar na jornada :)
 
 <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=CSS3&logoColor=%23e6edf3"/> <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=HTML5&logoColor=%23e6edf3"/>
 
